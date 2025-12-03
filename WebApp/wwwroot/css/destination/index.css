@@ -1,0 +1,61 @@
+﻿table {
+    width: 200vw;
+    margin-top: 15px;
+    border-radius: 10px;
+    max-height: calc(100vh - 200px);
+    overflow-y: auto;
+    display: block;
+}
+
+#buttons, td {
+    width: 15vw;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#description {
+    width: 35vw;
+}
+
+.table thead tr th {
+    background-color: bisque;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+td {
+    border: 1px solid black;
+    margin: 1em;
+    padding: 1em;
+    color: #fff;
+    background: linear-gradient(to right, purple, pink);
+}
+
+.btn.btn-outline-secondary
+{
+    background-color: blanchedalmond;
+    color: black;
+}
+
+.btn.btn-outline-secondary:hover {
+    background-color: lightgreen;
+    color: green;
+    border-color: green;
+}
+
+.btn.btn-outline-danger {
+    background-color: blanchedalmond;
+    border-color: red;
+}
+
+#createButton {
+    border-radius: 10px;
+    margin-top: 15px;
+    height: 50px;
+    justify-content: center;
+}
+
+#createButton:hover {
+    background-color: lightgreen;
+}

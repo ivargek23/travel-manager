@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Travel is fun with SWEN";
+}
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="~/css/home.css">
+
+<div class="content">
+    <div class="image">
+        <img src="~/images/travel.jpg" />
+    </div>
+    <div class="text-content">
+		<h1>Are you ready to explore the world with us?</h1>
+		<p>SWEN travel agency takes you to a journey you will not forget.</p>
+		<a class="btn btn-outline-secondary register-btn mb-2" asp-controller="User" asp-action="Register">Register now!</a>
+		<p>Already have an account? </p>
+		<a class="btn btn-outline-secondary register-btn" asp-controller="User" asp-action="Login">Login</a>
+    </div>
+</div>

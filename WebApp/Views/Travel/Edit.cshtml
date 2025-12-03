@@ -1,0 +1,97 @@
+﻿@using WebApp.ViewModels
+@model WebApp.ViewModels.TravelVM
+
+<div id="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Edit Travel: @Model.Name</h1>
+            <hr />
+            <form asp-action="Edit" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            <label asp-for="Name" class="control-label"></label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Description" class="control-label"></label>
+                            <textarea asp-for="Description" class="form-control"></textarea>
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="StartDate" class="control-label"></label>
+                            <input asp-for="StartDate" type="date" class="form-control" />
+                            <span asp-validation-for="StartDate" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="EndDate" class="control-label"></label>
+                            <input asp-for="EndDate" type="date" class="form-control" />
+                            <span asp-validation-for="EndDate" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            <label asp-for="Price" class="control-label"></label>
+                            <input asp-for="Price" class="form-control" />
+                            <span asp-validation-for="Price" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="DestinationId" class="control-label"></label>
+                            <select asp-for="DestinationId" asp-items="ViewBag.DestinationDdlItems" class="form-select">
+                                <option value="">Select destination</option>
+                            </select>
+                            <span asp-validation-for="DestinationId" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Image" class="control-label"></label>
+                            <input asp-for="Image" class="form-control" type="file" />
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="GuideIds" class="control-label"></label>
+                            <select asp-for="GuideIds" asp-items="ViewBag.GuideDdlItems" class="form-select" multiple="multiple"></select>
+                            <span asp-validation-for="GuideIds" class="text-danger"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            <dd>
+                                @if (!string.IsNullOrEmpty(Model.ImagePath))
+                                {
+                                    <img src="@Url.Content("~/" + Model.ImagePath)" alt="Image" class="img-thumbnail" />
+                                }
+                                else
+                                {
+                                    <img src="@Url.Content("~/images/default.jpg")" alt="Image" class="img-thumbnail" />
+                                }
+                            </dd>
+                        </div>
+                    </div>
+                </div>
+
+                
+
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary mt-3" />
+                    <a asp-action="List" class="btn btn-secondary mt-3">Cancel</a>
+                    <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger mt-3">Delete</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+@section Styles {
+    <link rel="stylesheet" href="~/css/travel/edit.css" />
+}

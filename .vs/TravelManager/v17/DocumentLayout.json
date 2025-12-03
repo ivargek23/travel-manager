@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{186468F4-8AF9-4F85-AF90-5AE5EAC00256}|WebAPI\\WebAPI.csproj|d:\\algebra\\4. semestar from scratch\\rwa\\ivonaprojecttask\\projecttask\\travelmanager\\webapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186468F4-8AF9-4F85-AF90-5AE5EAC00256}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE08D1DB-C954-4110-959E-4EC02FDD0538}|WebApp\\WebApp.csproj|d:\\algebra\\4. semestar from scratch\\rwa\\ivonaprojecttask\\projecttask\\travelmanager\\webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE08D1DB-C954-4110-959E-4EC02FDD0538}|WebApp\\WebApp.csproj|solutionrelative:webapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE08D1DB-C954-4110-959E-4EC02FDD0538}|WebApp\\WebApp.csproj|d:\\algebra\\4. semestar from scratch\\rwa\\ivonaprojecttask\\projecttask\\travelmanager\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE08D1DB-C954-4110-959E-4EC02FDD0538}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A78A07-FC52-4BA8-A94F-ECB2D556911F}|BL\\BL.csproj|d:\\algebra\\4. semestar from scratch\\rwa\\ivonaprojecttask\\projecttask\\travelmanager\\bl\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A78A07-FC52-4BA8-A94F-ECB2D556911F}|BL\\BL.csproj|solutionrelative:bl\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A78A07-FC52-4BA8-A94F-ECB2D556911F}|BL\\BL.csproj|d:\\algebra\\4. semestar from scratch\\rwa\\ivonaprojecttask\\projecttask\\travelmanager\\bl\\security\\passwordhashprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A78A07-FC52-4BA8-A94F-ECB2D556911F}|BL\\BL.csproj|solutionrelative:bl\\security\\passwordhashprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A78A07-FC52-4BA8-A94F-ECB2D556911F}|BL\\BL.csproj|d:\\algebra\\4. semestar from scratch\\rwa\\ivonaprojecttask\\projecttask\\travelmanager\\bl\\security\\jwttokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A78A07-FC52-4BA8-A94F-ECB2D556911F}|BL\\BL.csproj|solutionrelative:bl\\security\\jwttokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186468F4-8AF9-4F85-AF90-5AE5EAC00256}|WebAPI\\WebAPI.csproj|d:\\algebra\\4. semestar from scratch\\rwa\\ivonaprojecttask\\projecttask\\travelmanager\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{186468F4-8AF9-4F85-AF90-5AE5EAC00256}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186468F4-8AF9-4F85-AF90-5AE5EAC00256}|WebAPI\\WebAPI.csproj|d:\\algebra\\4. semestar from scratch\\rwa\\ivonaprojecttask\\projecttask\\travelmanager\\webapi\\controllers\\guidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186468F4-8AF9-4F85-AF90-5AE5EAC00256}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\guidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186468F4-8AF9-4F85-AF90-5AE5EAC00256}|WebAPI\\WebAPI.csproj|d:\\algebra\\4. semestar from scratch\\rwa\\ivonaprojecttask\\projecttask\\travelmanager\\webapi\\controllers\\travelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186468F4-8AF9-4F85-AF90-5AE5EAC00256}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\travelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A78A07-FC52-4BA8-A94F-ECB2D556911F}|BL\\BL.csproj|d:\\algebra\\4. semestar from scratch\\rwa\\ivonaprojecttask\\projecttask\\travelmanager\\bl\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A78A07-FC52-4BA8-A94F-ECB2D556911F}|BL\\BL.csproj|solutionrelative:bl\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186468F4-8AF9-4F85-AF90-5AE5EAC00256}|WebAPI\\WebAPI.csproj|d:\\algebra\\4. semestar from scratch\\rwa\\ivonaprojecttask\\projecttask\\travelmanager\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186468F4-8AF9-4F85-AF90-5AE5EAC00256}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE08D1DB-C954-4110-959E-4EC02FDD0538}|WebApp\\WebApp.csproj|d:\\algebra\\4. semestar from scratch\\rwa\\ivonaprojecttask\\projecttask\\travelmanager\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE08D1DB-C954-4110-959E-4EC02FDD0538}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186468F4-8AF9-4F85-AF90-5AE5EAC00256}|WebAPI\\WebAPI.csproj|d:\\algebra\\4. semestar from scratch\\rwa\\ivonaprojecttask\\projecttask\\travelmanager\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{186468F4-8AF9-4F85-AF90-5AE5EAC00256}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE08D1DB-C954-4110-959E-4EC02FDD0538}|WebApp\\WebApp.csproj|d:\\algebra\\4. semestar from scratch\\rwa\\ivonaprojecttask\\projecttask\\travelmanager\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE08D1DB-C954-4110-959E-4EC02FDD0538}|WebApp\\WebApp.csproj|solutionrelative:webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "WebAPI\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:19:20.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-03T11:19:04.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\BL\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BL\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\BL\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "BL\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:18:42.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordHashProvider.cs",
+              "DocumentMoniker": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\BL\\Security\\PasswordHashProvider.cs",
+              "RelativeDocumentMoniker": "BL\\Security\\PasswordHashProvider.cs",
+              "ToolTip": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\BL\\Security\\PasswordHashProvider.cs",
+              "RelativeToolTip": "BL\\Security\\PasswordHashProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:18:26.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtTokenProvider.cs",
+              "DocumentMoniker": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\BL\\Security\\JwtTokenProvider.cs",
+              "RelativeDocumentMoniker": "BL\\Security\\JwtTokenProvider.cs",
+              "ToolTip": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\BL\\Security\\JwtTokenProvider.cs",
+              "RelativeToolTip": "BL\\Security\\JwtTokenProvider.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:17:58.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuideController.cs",
+              "DocumentMoniker": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\Controllers\\GuideController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\GuideController.cs",
+              "ToolTip": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\Controllers\\GuideController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\GuideController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:17:27.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TravelController.cs",
+              "DocumentMoniker": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\Controllers\\TravelController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\TravelController.cs",
+              "ToolTip": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\Controllers\\TravelController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\TravelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:24:51.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T13:23:58.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:23:57.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T13:23:50.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\BL\\Models\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "BL\\Models\\DatabaseContext.cs",
+              "ToolTip": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\BL\\Models\\DatabaseContext.cs",
+              "RelativeToolTip": "BL\\Models\\DatabaseContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:22:35.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwDIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:22:23.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T16:17:16.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApp.csproj",
+              "DocumentMoniker": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\WebApp.csproj",
+              "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
+              "ToolTip": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\WebApp.csproj",
+              "RelativeToolTip": "WebApp\\WebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T16:17:14.197Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

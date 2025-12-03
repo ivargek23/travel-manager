@@ -1,0 +1,33 @@
+﻿.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-outline-info {
+    color: #17a2b8;
+    border-color: #17a2b8;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.text-muted a {
+    color: #6c757d;
+    text-decoration: underline;
+}
+
+body {
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}

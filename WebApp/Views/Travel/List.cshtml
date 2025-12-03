@@ -1,0 +1,59 @@
+﻿@using WebApp.ViewModels
+@model SearchVM
+<form asp-action="List" method="GET">
+    <div class="row" style="margin-bottom:0.4rem;">
+        <div class="col-6">
+            <input asp-for="Term" class="form-control" placeholder="Search travel" />
+        </div>
+        <div class="col-auto">
+            <label class="form-label mt-1">Sort by:</label>
+        </div>
+        <div class="col-auto">
+            <select asp-for="OrderBy" class="form-select">
+                <option value="id">(default)</option>
+                <option>Name</option>
+                <option>Start Date</option>
+                <option>End Date</option>
+                <option>Price</option>
+                <option>Destination Name</option>
+            </select>
+        </div>
+        <div class="col-auto">
+            <select asp-for="Size" class="form-select">
+                <option>10</option>
+                <option>25</option>
+                <option>50</option>
+            </select>
+        </div>
+        <div class="col-auto">
+            <input type="submit" value="Go" name="submit" class="btn btn-primary" />
+        </div>
+        <div class="col-auto">
+            <a asp-action="Create" class="btn btn-outline-primary">Add travel</a>
+        </div>
+    </div>
+</form>
+
+<div id="searchPartialPlaceholder">
+    <partial name="_ListPartial" />
+</div>
+
+@section Scripts {
+    <script>
+        $("body").on("click", "a.page-link", function (e) {
+            e.preventDefault();
+
+            const urlParts = e.target.href.split("?");
+            const base = urlParts[0];
+            const query = urlParts.length > 1 ? urlParts[1] : null;
+            if (query) {
+                $("#searchPartialPlaceholder").load(`${base}Partial?${query}`);
+            } else {
+                $("#searchPartialPlaceholder").load(`${base}Partial`);
+            }
+        })
+    </script>
+}
+@section Styles {
+    <link rel="stylesheet" href="~/css/travel/index.css" />
+}

@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Logs</title>
+    <link rel="stylesheet" href="logs.css" />
+</head>
+<body>
+    <nav>
+        <h2>Log list</h2>
+        <ul>
+            <li><a href="javascript:void(0);" onclick="jwtLogout()">Logout</a></li>
+        </ul>
+    </nav>
+
+    <div class="container mt-3" id="logs-chooser">
+        <div class="row mt-3" id="rows-options">
+            <div style="border:none;">
+                Number of logs:
+                <select name="number-of-logs" id="number-of-logs">
+                    <option value="10" selected>10</option>
+                    <option value="25">25</option>
+                    <option value="50">50</option>
+                </select>
+            </div>
+            <div class="col">
+                <button id="show-logs-button" onclick="showLogs()" class="btn btn-primary">Show logs <span id="search-spinner-placeholder"></span></button>
+            </div>
+        </div>
+        <div class="row" id="placeholder">
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="logs.js"></script>
+</body>
+</html>

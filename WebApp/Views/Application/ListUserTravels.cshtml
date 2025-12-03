@@ -1,0 +1,26 @@
+﻿@model IEnumerable<WebApp.ViewModels.UserTravelVM>
+
+@{
+    ViewData["Title"] = "ListUserTravels";
+}
+
+<h1>List of User Actions</h1>
+
+<table class="table table-striped">
+    <tbody>
+            @foreach (var item in Model)
+            {
+                if (item.DeletedAt == null)
+                {
+                <tr><td>User <em>@item.UserUsername</em> applied for travel <b>@item.TravelName</b></td></tr>
+                }
+                else if (item.DeletedAt != null)
+                {
+                <tr><td>User <em>@item.UserUsername</em> cancelled travel <b>@item.TravelName</b></td></tr>
+                }
+            }
+    </tbody>
+</table>
+@section Styles {
+    <link rel="stylesheet" href="~/css/application/list.css" />
+}

@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\css\\application\\list.css",
+      "PackagePath": "staticwebassets\\css\\application\\list.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\css\\destination\\delete.css",
+      "PackagePath": "staticwebassets\\css\\destination\\delete.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\css\\destination\\edit.css",
+      "PackagePath": "staticwebassets\\css\\destination\\edit.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\css\\destination\\index.css",
+      "PackagePath": "staticwebassets\\css\\destination\\index.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\css\\guide\\index.css",
+      "PackagePath": "staticwebassets\\css\\guide\\index.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\css\\travel\\create.css",
+      "PackagePath": "staticwebassets\\css\\travel\\create.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\css\\travel\\details.css",
+      "PackagePath": "staticwebassets\\css\\travel\\details.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\css\\travel\\edit.css",
+      "PackagePath": "staticwebassets\\css\\travel\\edit.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\css\\travel\\index.css",
+      "PackagePath": "staticwebassets\\css\\travel\\index.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\css\\user\\logout.css",
+      "PackagePath": "staticwebassets\\css\\user\\logout.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\css\\user\\register.css",
+      "PackagePath": "staticwebassets\\css\\user\\register.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\images\\0cb05785-0177-4dcb-a96e-76e8dcd3e0bb_big ben.jpg",
+      "PackagePath": "staticwebassets\\images\\0cb05785-0177-4dcb-a96e-76e8dcd3e0bb_big ben.jpg"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\images\\0f1f7efe-4cd6-4727-8760-abace1dc8748_eiffeell.jpg",
+      "PackagePath": "staticwebassets\\images\\0f1f7efe-4cd6-4727-8760-abace1dc8748_eiffeell.jpg"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\images\\399ea966-62a1-4d2c-8681-67faa32ed5bc_colosseum.jpg",
+      "PackagePath": "staticwebassets\\images\\399ea966-62a1-4d2c-8681-67faa32ed5bc_colosseum.jpg"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\images\\3c7a880c-74ab-4875-a84e-13bd6dbbca34_sagrada.jpg",
+      "PackagePath": "staticwebassets\\images\\3c7a880c-74ab-4875-a84e-13bd6dbbca34_sagrada.jpg"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\images\\947c910f-3c2a-4bdf-81b9-36b44a6d0a13_Eiffel.jpg",
+      "PackagePath": "staticwebassets\\images\\947c910f-3c2a-4bdf-81b9-36b44a6d0a13_Eiffel.jpg"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\images\\da9eb156-730e-48c3-99ba-a7b843ba4125_prague.jpg",
+      "PackagePath": "staticwebassets\\images\\da9eb156-730e-48c3-99ba-a7b843ba4125_prague.jpg"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\images\\daa259d2-a2f3-4cca-978d-467cffca8604_dragan.jpg",
+      "PackagePath": "staticwebassets\\images\\daa259d2-a2f3-4cca-978d-467cffca8604_dragan.jpg"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\images\\default.jpg",
+      "PackagePath": "staticwebassets\\images\\default.jpg"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\images\\ef9a141d-ba78-4234-b9ad-7e2001c8f122_anka.jpg",
+      "PackagePath": "staticwebassets\\images\\ef9a141d-ba78-4234-b9ad-7e2001c8f122_anka.jpg"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\images\\travel.jpg",
+      "PackagePath": "staticwebassets\\images\\travel.jpg"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApp.props",
+      "PackagePath": "build\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\WebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApp.props",
+      "PackagePath": "buildTransitive\\WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

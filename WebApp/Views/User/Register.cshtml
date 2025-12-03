@@ -1,0 +1,61 @@
+﻿@model WebApp.ViewModels.UserVM
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+
+<div class="row" id="rowId">
+    <div class="col-md-8" id="form">
+        <h1>Create account</h1>
+
+        <hr />
+        <form asp-action="Register">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Username" class="control-label"></label>
+                <input asp-for="Username" class="form-control" placeholder="Enter username"/>
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input type="password" asp-for="Password" class="form-control" placeholder="Select password"/>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConfirmPassword" class="control-label"></label>
+                <input type="password" asp-for="ConfirmPassword" class="form-control" placeholder="Repeat password"/>
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" placeholder="First name"/>
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control" placeholder="Last name"/>
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" placeholder="example@email.com"/>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary mt-3 mb-3" style="background-color:purple;"/>
+            </div>
+        </form>
+    </div>
+</div>
+<div style="width: 30vw; justify-content:center; margin: auto;" id="loginLinkContainer">
+    @* <a asp-action="Index">Back to List</a> *@
+    <p style="color: black"><em>Already have an account?</em></p><a asp-action="Login" class="btn btn-secondary" style=" background-color:mediumpurple;">Login here</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+@section Styles {
+    <link rel="stylesheet" href="~/css/user/register.css" />
+}

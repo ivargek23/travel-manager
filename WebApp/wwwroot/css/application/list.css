@@ -1,0 +1,19 @@
+﻿.table.table-striped {
+    border: 1px solid black;
+    margin: 1em;
+    padding: 1em;
+    background: linear-gradient(to right, purple, pink);
+    overflow-y: scroll;
+}
+
+.table-striped > tbody > tr:nth-child(odd) {
+    color: white;
+}
+
+.table-striped > tbody > tr:nth-child(even) {
+    color:yellow;
+}
+
+h1 {
+    margin-top: 0.8em;
+}

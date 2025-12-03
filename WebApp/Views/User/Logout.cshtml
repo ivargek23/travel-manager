@@ -1,0 +1,13 @@
+﻿<div class="container text-center mt-5">
+    <h2 class="mb-3">You’ve logged out successfully!</h2>
+    <p>We hope to see you back soon. If you want to log in again or return to the homepage, use the buttons below.</p>
+
+    <div class="mt-4">
+        <a asp-action="Login" asp-controller="User" class="btn btn-primary">Log In Again</a>
+        <a asp-action="Index" asp-controller="Home" class="btn btn-outline-info">Go to Homepage</a>
+    </div>
+</div>
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/user/logout.css" />"
+}

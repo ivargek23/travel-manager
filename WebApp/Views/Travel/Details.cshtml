@@ -1,0 +1,86 @@
+﻿@using WebApp.ViewModels
+@model WebApp.ViewModels.TravelVM
+
+@{
+    ViewData["Title"] = "Details"; 
+
+    var users = ViewBag.Users as IEnumerable<UserVM>;
+}
+
+    <h1 style="margin-top:10px;">Travel: @Model.Name</h1>
+
+    <div>
+        <hr />
+        <dl class="row">
+            <div class="col-md-6">
+                <dd>
+                    @if (!string.IsNullOrEmpty(Model.ImagePath))
+                    {
+                        <img src="@Url.Content("~/" + Model.ImagePath)" alt="Image" class="img-thumbnail" />
+                    }
+                    else
+                    {
+                        <img src="@Url.Content("~/images/default.jpg")" alt="Image" class="img-thumbnail" />
+                    }
+                </dd>
+            </div>
+            <div class="col-md-3" id="details" style="border: 1px solid black;">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.StartDate)
+                </dt>
+                <dd class="col-sm-10" id="StartDate">
+                    @Html.DisplayFor(model => model.StartDate)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.EndDate)
+                </dt>
+                <dd class="col-sm-10" id="EndDate">
+                    @Html.DisplayFor(model => model.EndDate)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Price)
+                </dt>
+                <dd class="col-sm-10" id="Price">
+                    @Html.DisplayFor(model => model.Price)
+                </dd>
+                <dd class="col-sm-2" id="Description">
+                    @Html.DisplayNameFor(model => model.Description)
+                </dd>
+                <dd class="col-sm-10" id="Description">
+                    @Html.DisplayFor(model => model.Description)
+                </dd>
+            </div>
+        </dl>
+    </div>
+    <div>
+        <dl class="row">
+            <div class="col-md-6">
+                <dd class="col-sm-10" id="Guides">
+                    <label asp-for="GuideIds" class="control-label"></label>
+                    <br />
+                    <select asp-for="GuideIds" asp-items="ViewBag.GuideDdlItems" class="form-select" multiple="multiple" disabled="true"></select>
+                    <span asp-validation-for="GuideIds" class="text-danger"></span>
+                </dd>
+            </div>
+            <div class="col-md-6">
+                <dd class="col-sm-10" id="Users">
+                    <label>Users</label>
+                    <br />
+                    @if (users != null)
+                    {
+                        foreach (var user in users)
+                        {
+                            <p>@user.FirstName @user.LastName</p>
+                        }
+                    }
+                </dd>
+            </div>
+        </dl>
+    </div>
+    <div>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }, new { @class = "btn btn-outline-secondary mt-3" })
+        <a asp-action="List" class="btn btn-outline-secondary mt-3">Back to List</a>
+    </div>
+@section Styles {
+    <link rel="stylesheet" href="~/css/travel/details.css" />
+}

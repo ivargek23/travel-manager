@@ -1,0 +1,59 @@
+﻿@model WebApp.ViewModels.SearchVM
+
+<div class="travel-container">
+    @foreach (var travelRow in Model.Travels.Select((travel, index) => new { travel, index })
+    .GroupBy(x => x.index / 5))
+    {
+        <div class="travel-row">
+            @foreach (var item in travelRow)
+            {
+                <div class="travel-item">
+                    @if (!string.IsNullOrEmpty(item.travel.ImagePath))
+                    {
+                        <img src="@Url.Content("~/" + item.travel.ImagePath)" alt="Image" class="img-thumbnail" />
+                    }
+                    else
+                    {
+                        <img src="@Url.Content("~/images/default.jpg")" alt="Image" class="img-thumbnail" />
+                    }
+                    <div class="travel-details">
+                        <h5>@item.travel.Name</h5>
+                        @Html.ActionLink("Details", "UserDetails", new { id = item.travel.Id }, new { @class = "btn btn-outline-secondary" })
+                    </div>
+
+
+                </div>
+            }
+        </div>
+    }
+</div>
+<nav>
+    <ul class="pagination">
+        @for (int i = Model.FromPager; i <= Model.ToPager; i++)
+        {
+            var linkText = @i.ToString();
+            if (i != 1 && i == Model.FromPager)
+            {
+                linkText = "«";
+            }
+            else if (i != Model.LastPage && i == Model.ToPager)
+            {
+                linkText = "»";
+            }
+
+            var linkClass = "page-item";
+            if (i == Model.Page)
+            {
+                linkClass = "page-item active";
+            }
+            <li class="@linkClass">
+                <a asp-action="List"
+                   asp-route-q="@Model.Term"
+                   asp-route-orderBy="@Model.OrderBy"
+                   asp-route-page="@i"
+                   asp-route-size="@Model.Size"
+                   class="page-link">@linkText</a>
+            </li>
+        }
+    </ul>
+</nav>

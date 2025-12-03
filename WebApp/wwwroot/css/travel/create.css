@@ -1,0 +1,19 @@
+﻿#createForm {
+    margin: 0 auto;
+    max-width: 90vw;
+}
+
+.row {
+    justify-content: center;
+    margin: auto;
+    width: 100%;
+}
+
+form {
+    width: 100%;
+    border: 1px solid purple;
+    border-radius: 10px;
+    background: linear-gradient(to right, purple, pink);
+    padding: 10px;
+    color: white;
+}

@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\wwwroot\\login.css",
+      "PackagePath": "staticwebassets\\login.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\wwwroot\\login.js",
+      "PackagePath": "staticwebassets\\login.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\wwwroot\\logs.css",
+      "PackagePath": "staticwebassets\\logs.css"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\wwwroot\\logs.html",
+      "PackagePath": "staticwebassets\\logs.html"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\wwwroot\\logs.js",
+      "PackagePath": "staticwebassets\\logs.js"
+    },
+    {
+      "Id": "D:\\Algebra\\4. semestar from scratch\\Rwa\\IvonaProjectTask\\ProjectTask\\TravelManager\\WebAPI\\wwwroot\\spinner.css",
+      "PackagePath": "staticwebassets\\spinner.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebAPI.props",
+      "PackagePath": "build\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebAPI.props",
+      "PackagePath": "buildTransitive\\WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,42 @@
+﻿body {
+    background: linear-gradient(to right, purple, pink);
+    height: 100vh;
+    margin: 0;
+}
+
+#rowId {
+    width: 30vw;
+    justify-content: center;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    border-radius: 12px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.control-label {
+    padding: 2px;
+}
+
+h1 {
+    padding-top: 15px;
+}
+
+.control-label {
+    font-weight: 600;
+}
+
+.col-md-4#registerLink {
+    text-decoration-color: black;
+    text-decoration: underline dotted;
+    margin-top: 1em;
+    color: black;
+}
+
+.col-md-4#registerLink:hover {
+    text-decoration-color: white;
+    text-decoration: underline;
+    color: white;
+    cursor: pointer;
+}
